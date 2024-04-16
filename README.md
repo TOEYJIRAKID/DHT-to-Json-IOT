@@ -1,3 +1,4 @@
+# ระบบเก็บข้อมูลอุณหภูมิและความชื้นลงในไฟล์ json
 ## Json Server Command
 <code>json-server --watch data.json --host <input_ip> --port <input_port></code>
 
@@ -21,4 +22,5 @@
 }
 ```
 
-["# DHT-to-Json-IOT" ](https://youtu.be/qGMntd_2Lfs?si=VMIhVtP0WJCQhECS)
+## Click image to Youtube video
+[![Screenshot 2024-04-16 130249](https://github.com/TOEYJIRAKID/DHT-to-Json-IOT/assets/167008371/0492e01b-80f9-4e97-ba70-75f1662c49b4)](https://youtu.be/qGMntd_2Lfs?si=VMIhVtP0WJCQhECS) 
